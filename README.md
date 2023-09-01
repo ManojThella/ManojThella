@@ -7,4 +7,4 @@ I am **Manoj Thella**
 - :computer: I have previously worked for Cognizant
 - 📫 How to reach me: manojthella98@gmail.com
 
-[!200w.gif]
+![gif](200w.gif)
